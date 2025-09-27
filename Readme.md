@@ -1,7 +1,8 @@
 # Dashboard for python Project
 
 ### Tools and Software
-- Streamlit - a low-code web framework
-- Pandas - a data analysis and wrangling tool
+- Streamlit - web framework
+- Pandas - a data analysis Library
 - Altair - a data visualization library
 - Plotly Express - a terse and high-level API for creating figures
+- HTML CSS Javascript Typescript - Web Development
