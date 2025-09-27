@@ -96,6 +96,8 @@ app.layout = html.Div(
 
 ## Set HTML file
 
+HTML
+
 ```html
 
 <div>
@@ -111,6 +113,7 @@ app.layout = html.Div(
 
 ## Run on Server
 
+Python 
 ```python
 -- app.py
 if __name__ == "__main__":
@@ -118,8 +121,10 @@ if __name__ == "__main__":
 
 ```
 
+
 ## Set CSS 
 
+CSS
 ```python
 html.H1(
     children="Durian Analytics",
