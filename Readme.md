@@ -19,6 +19,7 @@
 ## How do it?
 
 ```bash
+## bash ##
 mkdir dash-app-project
 cd dash-app-project
 ```
