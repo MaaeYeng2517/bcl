@@ -117,3 +117,12 @@ if __name__ == "__main__":
     app.run_server(debug=True)
 
 ```
+
+## Set CSS 
+
+```python
+html.H1(
+    children="Avocado Analytics",
+    style={"fontSize": "48px", "color": "red"},
+),
+```
