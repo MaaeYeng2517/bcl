@@ -122,7 +122,14 @@ if __name__ == "__main__":
 
 ```python
 html.H1(
-    children="Avocado Analytics",
+    children="Durian Analytics",
     style={"fontSize": "48px", "color": "red"},
 ),
+```
+
+```css
+.header-title {
+  font-size: 48px;
+  color: red;
+}
 ```
