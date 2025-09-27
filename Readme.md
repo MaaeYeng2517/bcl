@@ -49,7 +49,7 @@ app = Dash(__name__)
 
 ```
 
-## Laytout 
+## Laytout DashBoard for Durian
 
 ```python
 
@@ -57,11 +57,11 @@ app = Dash(__name__)
 
 app.layout = html.Div(
     children=[
-        html.H1(children="Avocado Analytics"),
+        html.H1(children="Durian Analytics"),
         html.P(
             children=(
-                "Analyze the behavior of avocado prices and the number"
-                " of avocados sold in the US between 2015 and 2018"
+                "Analyze the behavior of Druian prices and the number"
+                " of Druian sold in the TH between 2015 and 2025"
             ),
         ),
         dcc.Graph(
@@ -73,7 +73,7 @@ app.layout = html.Div(
                         "type": "lines",
                     },
                 ],
-                "layout": {"title": "Average Price of durain"},
+                "layout": {"title": "Average Price of Druian"},
             },
         ),
         dcc.Graph(
@@ -85,12 +85,27 @@ app.layout = html.Div(
                         "type": "lines",
                     },
                 ],
-                "layout": {"title": "durain Sold"},
+                "layout": {"title": "Druian Sold"},
             },
         ),
     ]
 )
 
+
+```
+
+## Set HTML file
+
+```html
+
+<div>
+  <h1>Avocado Analytics</h1>
+  <p>
+    Analyze the behavior of Durian prices and the number
+    of Durian sold in the TH between 2015 and 2025
+  </p>
+  <!-- Rest of the app -->
+</div>
 
 ```
 
