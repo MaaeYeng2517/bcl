@@ -101,7 +101,7 @@ HTML
 ```html
 
 <div>
-  <h1>Avocado Analytics</h1>
+  <h1>Durian Thainland Analytics</h1>
   <p>
     Analyze the behavior of Durian prices and the number
     of Durian sold in the TH between 2015 and 2025
