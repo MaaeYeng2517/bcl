@@ -109,3 +109,11 @@ app.layout = html.Div(
 
 ```
 
+## Run on Server
+
+```python
+-- app.py
+if __name__ == "__main__":
+    app.run_server(debug=True)
+
+```
