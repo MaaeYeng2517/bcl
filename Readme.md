@@ -1,4 +1,4 @@
-# Dashboard for python
+# Dashboard for python Project
 
 ### Tools and Software
 - Streamlit - a low-code web framework
