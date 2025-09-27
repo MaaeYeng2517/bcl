@@ -142,7 +142,7 @@ html.H1(
 ## Source data
 
 
-| Year  |Jan| Mar  |Apr| May  |  Jun | July  |  Aug | Sep  | Oct  |  Nov | Dec  |
+| Year  | Jan | Mar  | Apr | May  |  Jun | July  |  Aug | Sep  | Oct  |  Nov | Dec  |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
